@@ -14,4 +14,4 @@ LightUp is my final year project - a mobile app for buying electricity units, ch
 - Transaction history
 
 **Author:** Abdulrahman Muhammad Aliyu
-**School:** University of Jos
+**School:** Mewar International University 
